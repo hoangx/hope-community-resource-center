@@ -1,0 +1,9 @@
+/*
+Programmer:		Tommy Hoang
+Date:			05/10/2015
+Project:		HCRC WEB
+*/
+
+body{background-image:none;margin:0px;padding:0px;color:#000000;font-family:"Arial";}
+#main{background-color:#FFF;min-width:0px;margin-left:0px;margin-right:0px;width:100%;box-shadow: 10px 10px 5px #FFF;}
+p {margin:1cm 1cm 1cm 1cm;font-weight:bold;}
